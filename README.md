@@ -23,6 +23,7 @@ Linux (Debian, Ubuntu, Rocky), MikroTik RouterOS, PRTG, Prometheus, Grafana, Ngi
 
 Each folder in this repo is a focused lab or documentation topic:
 
+```
 network-admin-lab/
 ├── vpn-secure-access/
 ├── firewall-routing/
@@ -31,7 +32,7 @@ network-admin-lab/
 ├── perimeter-security/
 ├── change-management/
 ├── server-infrastructure/
-
+```
 
 Each contain setup guides, configs, screenshots, diagrams, or logs.
 
